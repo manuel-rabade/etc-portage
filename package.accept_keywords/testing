@@ -1,0 +1,77 @@
+# apps
+www-client/google-chrome        ~amd64
+www-client/firefox-bin          ~amd64
+sys-apps/lm_sensors             ~amd64
+app-emacs/javascript            ~amd64
+net-im/skype                    ~amd64
+media-gfx/gtkam                 ~amd64
+sci-electronics/fritzing        ~amd64
+www-plugins/adobe-flash         ~amd64
+sci-electronics/eagle           **
+
+# icons & themes
+x11-themes/human-icon-theme        ~amd64
+x11-themes/gargantuan-icon-theme   ~amd64
+x11-themes/yasis-icon-theme        ~amd64
+x11-themes/echo-icon-theme         ~amd64
+x11-themes/clearlooks-phenix       ~amd64
+
+# fonts
+media-fonts/montecarlo          ~amd64
+media-fonts/cantarell           ~amd64
+media-fonts/heuristica          ~amd64
+media-fonts/anonymous-pro       ~amd64
+media-libs/fontconfig           ~amd64
+
+# libs
+media-libs/libgphoto2           ~amd64
+sys-libs/talloc                 ~amd64
+
+# sys
+sys-fs/fuse-exfat               ~amd64
+
+# virtualbox
+app-emulation/virtualbox-bin       ~amd64
+app-emulation/virtualbox-modules   ~amd64
+
+# perl
+dev-perl/Math-Round             ~amd64
+virtual/perl-Switch             ~amd64
+
+# rails
+www-client/phantomjs            ~amd64
+app-misc/elasticsearch          ~amd64
+
+# arduino
+dev-embedded/uisp               ~amd64
+dev-embedded/arduino            ~amd64
+
+# geda
+sci-electronics/gnetman         ~amd64
+sci-electronics/geda-suite      ~amd64
+sci-electronics/ngspice         ~amd64
+dev-db/datadraw                 ~amd64
+
+# embedded
+sys-devel/crossdev              ~amd64
+
+# wireless
+sys-kernel/linux-firmware       ~amd64
+
+# gnuradio
+net-wireless/gnuradio           ~amd64
+dev-libs/boost                  ~amd64
+dev-util/boost-build            ~amd64
+net-wireless/uhd                ~amd64
+net-wireless/gr-iqbal           ~amd64
+net-wireless/gr-osmosdr         ~amd64
+net-libs/libosmo-dsp            ~amd64
+net-wireless/rtl-sdr            ~amd64
+net-libs/libhackrf              ~amd64
+dev-python/pyqwt                ~amd64
+
+# xwxapt
+media-radio/xwxapt              ~amd64
+
+# fldigi
+media-radio/fldigi              ~amd64
