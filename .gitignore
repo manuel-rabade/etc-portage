@@ -1,0 +1,7 @@
+*
+!make.conf
+!package.accept_keywords/
+!package.accept_keywords/testing
+!package.license
+!package.use/
+!package.use/custom
