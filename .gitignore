@@ -2,6 +2,10 @@
 !make.conf
 !package.accept_keywords/
 !package.accept_keywords/testing
+!package.mask/
+!package.mask/broken
+!package.unmask/
+!package.unmask/unstable
 !package.license
 !package.use/
 !package.use/custom

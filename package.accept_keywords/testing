@@ -1,77 +1,90 @@
 # apps
-www-client/google-chrome        ~amd64
-www-client/firefox-bin          ~amd64
-sys-apps/lm_sensors             ~amd64
-app-emacs/javascript            ~amd64
-net-im/skype                    ~amd64
-media-gfx/gtkam                 ~amd64
-sci-electronics/fritzing        ~amd64
-www-plugins/adobe-flash         ~amd64
-sci-electronics/eagle           **
+www-client/google-chrome
+www-client/firefox-bin
+sys-apps/lm_sensors
+app-emacs/javascript
+net-im/skype
+media-gfx/gtkam
+sci-electronics/fritzing
+www-plugins/adobe-flash
+sci-electronics/eagle
 
 # icons & themes
-x11-themes/human-icon-theme        ~amd64
-x11-themes/gargantuan-icon-theme   ~amd64
-x11-themes/yasis-icon-theme        ~amd64
-x11-themes/echo-icon-theme         ~amd64
-x11-themes/clearlooks-phenix       ~amd64
+x11-themes/human-icon-theme
+x11-themes/gargantuan-icon-theme
+x11-themes/yasis-icon-theme
+x11-themes/echo-icon-theme
+x11-themes/clearlooks-phenix
 
 # fonts
-media-fonts/montecarlo          ~amd64
-media-fonts/cantarell           ~amd64
-media-fonts/heuristica          ~amd64
-media-fonts/anonymous-pro       ~amd64
-media-libs/fontconfig           ~amd64
+media-fonts/montecarlo
+media-fonts/cantarell
+media-fonts/heuristica
+media-fonts/anonymous-pro
+media-libs/fontconfig
 
 # libs
-media-libs/libgphoto2           ~amd64
-sys-libs/talloc                 ~amd64
+media-libs/libgphoto2
+sys-libs/talloc
 
 # sys
-sys-fs/fuse-exfat               ~amd64
+sys-fs/fuse-exfat
 
 # virtualbox
-app-emulation/virtualbox-bin       ~amd64
-app-emulation/virtualbox-modules   ~amd64
+app-emulation/virtualbox-bin
+app-emulation/virtualbox-modules
 
 # perl
-dev-perl/Math-Round             ~amd64
-virtual/perl-Switch             ~amd64
+dev-perl/Math-Round
+virtual/perl-Switch
 
 # rails
-www-client/phantomjs            ~amd64
-app-misc/elasticsearch          ~amd64
+www-client/phantomjs
+app-misc/elasticsearch
 
 # arduino
-dev-embedded/uisp               ~amd64
-dev-embedded/arduino            ~amd64
+dev-embedded/uisp
+dev-embedded/arduino
 
 # geda
-sci-electronics/gnetman         ~amd64
-sci-electronics/geda-suite      ~amd64
-sci-electronics/ngspice         ~amd64
-dev-db/datadraw                 ~amd64
+sci-electronics/gnetman
+sci-electronics/geda-suite
+sci-electronics/ngspice
+dev-db/datadraw
 
 # embedded
-sys-devel/crossdev              ~amd64
+sys-devel/crossdev
 
 # wireless
-sys-kernel/linux-firmware       ~amd64
+sys-kernel/linux-firmware
 
 # gnuradio
-net-wireless/gnuradio           ~amd64
-dev-libs/boost                  ~amd64
-dev-util/boost-build            ~amd64
-net-wireless/uhd                ~amd64
-net-wireless/gr-iqbal           ~amd64
-net-wireless/gr-osmosdr         ~amd64
-net-libs/libosmo-dsp            ~amd64
-net-wireless/rtl-sdr            ~amd64
-net-libs/libhackrf              ~amd64
-dev-python/pyqwt                ~amd64
+net-wireless/gnuradio
+dev-libs/boost
+dev-util/boost-build
+net-wireless/uhd
+net-wireless/gr-iqbal
+net-wireless/gr-osmosdr
+net-libs/libosmo-dsp
+net-wireless/rtl-sdr
+net-libs/libhackrf
+dev-python/pyqwt
 
 # xwxapt
-media-radio/xwxapt              ~amd64
+media-radio/xwxapt
 
 # fldigi
-media-radio/fldigi              ~amd64
+media-radio/fldigi
+
+# nivida
+media-video/nvidia-settings
+
+# bti
+net-libs/liboauth
+net-misc/bti
+
+# btsync from overlay gentoo-el
+net-p2p/btsync
+
+# cgal
+sci-mathematics/cgal
