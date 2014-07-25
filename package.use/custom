@@ -54,3 +54,6 @@ sys-auth/consolekit                     policykit
 
 # gcc from crossdev
 cross-avr/gcc                           -fortran
+
+# gnuradio
+dev-python/numpy                        lapack
