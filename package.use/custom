@@ -5,7 +5,8 @@ media-video/mplayer2                    aalib libcaca mmxext ssse3 xvmc
 app-text/evince                         djvu dvi
 app-text/fbreader                       -qt4
 xfce-base/xfce4-session                 gnome-keyring
-media-video/ffmpeg                      x264 amr
+media-video/ffmpeg                      x264 amr threads
+virtual/ffmpeg                          threads
 
 # geda
 dev-scheme/guile                        networking

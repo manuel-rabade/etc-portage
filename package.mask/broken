@@ -4,4 +4,4 @@
 =x11-libs/gtksourceview-3.12.2
 
 # yocto
-=sys-devel/make-3.82-r4
+#=sys-devel/make-3.82-r4
