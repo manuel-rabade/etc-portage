@@ -12,6 +12,9 @@ virtual/ffmpeg                          threads
 dev-scheme/guile                        networking
 sci-electronics/pcb                     dbus
 
+# kicad
+x11-libs/wxGTK                          tiff gnome
+
 # sys
 virtual/udev                            gudev
 sys-fs/udev                             gudev
@@ -39,7 +42,6 @@ sys-libs/talloc                         python
 media-libs/harfbuzz                     icu
 media-libs/gst-plugins-base             theora
 media-libs/lcms                         python
-sys-libs/ncurses                        tinfo
 
 # misc
 xfce-extra/xfce4-sensors-plugin         hddtemp lm_sensors

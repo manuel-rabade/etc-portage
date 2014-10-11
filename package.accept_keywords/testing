@@ -52,6 +52,9 @@ sci-electronics/geda-suite
 sci-electronics/ngspice
 dev-db/datadraw
 
+# kicad
+sci-electronics/kicad
+
 # embedded
 sys-devel/crossdev
 
