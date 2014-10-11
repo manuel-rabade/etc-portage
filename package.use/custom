@@ -60,3 +60,4 @@ cross-avr/gcc                           -fortran
 
 # gnuradio
 dev-python/numpy                        lapack
+dev-libs/Ice                            python
