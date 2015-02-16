@@ -25,8 +25,7 @@ dev-lang/python                         sqlite
 dev-lang/php                            fpm gd cgi curl mhash pdo mysql mssql odbc postgres iodbc sybase-ct kerberos mysqli
 app-admin/eselect-php                   fpm
 dev-db/freetds                          mssql odbc iodbc
-dev-db/postgresql-server                perl uuid
-dev-db/postgresql                       server
+dev-db/postgresql                       server perl uuid
 
 # libs
 dev-libs/libxml2                        python
