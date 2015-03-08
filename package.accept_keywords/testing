@@ -97,3 +97,8 @@ sci-mathematics/cgal
 =dev-java/icedtea-7.2.4.8
 =virtual/jdk-1.7.0
 =dev-java/icedtea-web-1.4.2-r1
+
+# maple
+dev-embedded/openocd
+app-mobilephone/dfu-util
+dev-lang/jimtcl
