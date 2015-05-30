@@ -23,7 +23,7 @@ sys-fs/udev                             gudev
 # dev
 dev-lang/python                         sqlite
 dev-lang/php                            fpm gd cgi curl mhash pdo mysql mssql odbc postgres iodbc sybase-ct kerberos mysqli
-app-admin/eselect-php                   fpm
+app-eselect/eselect-php                 fpm
 dev-db/freetds                          mssql odbc iodbc
 dev-db/postgresql                       server perl uuid
 
@@ -43,6 +43,7 @@ sys-libs/talloc                         python
 media-libs/harfbuzz                     icu
 media-libs/gst-plugins-base             theora
 media-libs/lcms                         python
+dev-libs/glib                           dbus
 
 # misc
 xfce-extra/xfce4-sensors-plugin         hddtemp lm_sensors
@@ -67,4 +68,11 @@ dev-libs/Ice                            python
 sys-libs/ncurses                        tinfo
 
 # https://bugs.gentoo.org/show_bug.cgi?id=525910
-cross-avr/gcc -sanitize
+cross-avr/gcc                           -sanitize
+
+# fritzing
+=dev-libs/libpcre-8.36                  pcre16
+>=x11-libs/libxcb-1.11-r1               xkb
+
+# phantomjs
+>=dev-qt/qtcore-5.4.1                   icu
