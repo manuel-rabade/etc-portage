@@ -5,9 +5,9 @@ sys-apps/lm_sensors
 app-emacs/javascript
 net-im/skype
 media-gfx/gtkam
-sci-electronics/fritzing
 www-plugins/adobe-flash
 sci-electronics/eagle
+sci-electronics/fritzing
 
 # icons & themes
 x11-themes/human-icon-theme
@@ -86,11 +86,13 @@ media-video/nvidia-settings
 net-libs/liboauth
 net-misc/bti
 
-# btsync from overlay gentoo-el
-net-p2p/btsync
-
 # cgal
 sci-mathematics/cgal
+
+# maple
+dev-embedded/openocd
+app-mobilephone/dfu-util
+dev-lang/jimtcl
 
 # libreoffice
 =virtual/jre-1.7.0
@@ -98,7 +100,19 @@ sci-mathematics/cgal
 =virtual/jdk-1.7.0
 =dev-java/icedtea-web-1.4.2-r1
 
-# maple
-dev-embedded/openocd
-app-mobilephone/dfu-util
-dev-lang/jimtcl
+# fritzing
+=dev-qt/qtsvg-5.4.1
+=dev-qt/qtserialport-5.4.1
+=dev-qt/qtconcurrent-5.4.1
+=dev-qt/qtprintsupport-5.4.1
+=dev-qt/qtwidgets-5.4.1
+=dev-qt/qtgui-5.4.1-r2
+=dev-libs/glib-2.42.1
+=dev-qt/qtxml-5.4.1
+=dev-qt/qtsql-5.4.1
+=dev-qt/qtnetwork-5.4.1
+=dev-qt/qtcore-5.4.1
+
+# phantomjs
+=dev-qt/qtwebkit-5.4.1
+=dev-qt/qtopengl-5.4.1
