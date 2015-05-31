@@ -1,7 +1,6 @@
 # apps
 media-sound/picard                      coverart ffmpeg
 app-editors/emacs                       toolkit-scroll-bars -gtk3
-media-video/mplayer2                    aalib libcaca mmxext ssse3 xvmc
 app-text/evince                         djvu dvi
 app-text/fbreader                       -qt4
 xfce-base/xfce4-session                 gnome-keyring
