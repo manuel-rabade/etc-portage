@@ -51,6 +51,7 @@ sci-electronics/kicad
 
 # embedded
 sys-devel/crossdev
+app-portage/portage-utils
 
 # wireless
 sys-kernel/linux-firmware
