@@ -29,6 +29,8 @@ app-emulation/virtualbox-bin
 app-emulation/virtualbox-modules
 
 # perl
+app-portage/g-cpan
+dev-perl/Shell-EnvImporter
 dev-perl/Math-Round
 virtual/perl-Switch
 
