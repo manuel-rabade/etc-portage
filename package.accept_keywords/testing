@@ -41,6 +41,7 @@ app-misc/elasticsearch
 # arduino
 dev-embedded/uisp
 dev-embedded/arduino
+dev-embedded/avrdude
 
 # geda
 sci-electronics/gnetman
