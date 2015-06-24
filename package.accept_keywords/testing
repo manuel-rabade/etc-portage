@@ -33,6 +33,10 @@ app-portage/g-cpan
 dev-perl/Shell-EnvImporter
 dev-perl/Math-Round
 virtual/perl-Switch
+dev-perl/POE-Component-Client-Keepalive
+dev-perl/POE-Component-Resolver
+dev-perl/Net-IP-Minimal
+dev-perl/POE-API-Peek
 
 # rails
 www-client/phantomjs
