@@ -20,6 +20,7 @@ x11-themes/clearlooks-phenix
 media-libs/libgphoto2
 sys-libs/talloc
 media-libs/fontconfig
+media-sound/apulse
 
 # sys
 sys-fs/fuse-exfat
