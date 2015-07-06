@@ -97,6 +97,11 @@ dev-embedded/openocd
 app-mobilephone/dfu-util
 dev-lang/jimtcl
 
+# go
+dev-go/go-text
+dev-go/go-tools
+dev-go/go-net
+
 # infinality-ultimate-meta
 media-fonts/infinality-ultimate-meta
 media-fonts/tex-gyre
