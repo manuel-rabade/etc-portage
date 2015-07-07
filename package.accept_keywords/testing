@@ -102,6 +102,9 @@ dev-go/go-text
 dev-go/go-tools
 dev-go/go-net
 
+# mosquitto
+app-misc/mosquitto
+
 # infinality-ultimate-meta
 media-fonts/infinality-ultimate-meta
 media-fonts/tex-gyre
