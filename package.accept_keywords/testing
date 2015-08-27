@@ -2,7 +2,6 @@
 www-client/google-chrome
 www-client/firefox-bin
 sys-apps/lm_sensors
-app-emacs/javascript
 net-im/skype
 media-gfx/gtkam
 www-plugins/adobe-flash
@@ -24,6 +23,10 @@ media-sound/apulse
 
 # sys
 sys-fs/fuse-exfat
+
+# emacs
+app-emacs/markdown-mode
+app-emacs/javascript
 
 # virtualbox
 app-emulation/virtualbox-bin
