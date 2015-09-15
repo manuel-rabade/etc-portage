@@ -70,6 +70,9 @@ sys-libs/ncurses                        tinfo
 # https://bugs.gentoo.org/show_bug.cgi?id=525910
 cross-avr/gcc                           -sanitize
 
+# python
+dev-python/pyside                       declarative
+
 # fritzing
 =dev-libs/libpcre-8.36                  pcre16
 >=x11-libs/libxcb-1.11-r1               xkb
