@@ -23,6 +23,7 @@ media-sound/apulse
 
 # sys
 sys-fs/fuse-exfat
+sys-fs/hfsplusutils **
 
 # emacs
 app-emacs/markdown-mode
