@@ -102,8 +102,10 @@ app-mobilephone/dfu-util
 dev-lang/jimtcl
 
 # go
-dev-go/go-text
+dev-lang/go
+dev-lang/go-bootstrap
 dev-go/go-tools
+dev-go/go-text
 dev-go/go-net
 
 # mosquitto
