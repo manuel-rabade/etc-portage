@@ -9,13 +9,6 @@ virtual/ffmpeg                          threads
 net-im/pidgin                           -ncurses
 net-im/skype                            apulse
 
-# geda
-dev-scheme/guile                        networking
-sci-electronics/pcb                     dbus
-
-# kicad
-x11-libs/wxGTK                          tiff gnome
-
 # sys
 virtual/udev                            gudev
 sys-fs/udev                             gudev
@@ -47,6 +40,14 @@ dev-libs/glib                           dbus
 
 # misc
 xfce-extra/xfce4-sensors-plugin         hddtemp lm_sensors
+app-crypt/pinentry                      gnome-keyring
+
+# geda
+dev-scheme/guile                        networking
+sci-electronics/pcb                     dbus
+
+# kicad
+x11-libs/wxGTK                          tiff gnome
 
 # tex
 app-text/texlive                        dvipdfm graphics science
