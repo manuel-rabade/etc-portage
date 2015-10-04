@@ -86,9 +86,6 @@ media-radio/xwxapt
 # fldigi
 media-radio/fldigi
 
-# nivida
-media-video/nvidia-settings
-
 # bti
 net-libs/liboauth
 net-misc/bti
