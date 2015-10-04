@@ -77,6 +77,7 @@ dev-python/pyside                       declarative
 # fritzing
 =dev-libs/libpcre-8.36                  pcre16
 >=x11-libs/libxcb-1.11-r1               xkb
+dev-libs/quazip                         qt4 -qt5
 
 # phantomjs
 >=dev-qt/qtcore-5.4.1                   icu
