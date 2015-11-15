@@ -25,7 +25,7 @@ dev-libs/libxml2                        python
 dev-qt/qtgui                            dbus
 app-text/poppler                        cairo
 media-libs/libpng                       apng
-dev-libs/boost                          python
+dev-libs/boost                          python nls context
 media-libs/freetype                     auto-hinter
 media-gfx/ufraw                         gimp
 media-libs/chromaprint                  tools
