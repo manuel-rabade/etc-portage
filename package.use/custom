@@ -37,6 +37,7 @@ media-libs/harfbuzz                     icu
 media-libs/gst-plugins-base             theora
 media-libs/lcms                         python
 dev-libs/glib                           dbus
+dev-libs/libpcre                        pcre16
 
 # misc
 xfce-extra/xfce4-sensors-plugin         hddtemp lm_sensors
@@ -75,7 +76,6 @@ cross-avr/gcc                           -sanitize
 dev-python/pyside                       declarative
 
 # fritzing
-=dev-libs/libpcre-8.36                  pcre16
 >=x11-libs/libxcb-1.11-r1               xkb
 dev-libs/quazip                         qt4 -qt5
 
