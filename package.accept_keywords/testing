@@ -116,6 +116,18 @@ media-fonts/courier-prime
 media-fonts/heuristica
 media-libs/fontconfig-ultimate
 
+# kramdown
+dev-ruby/kramdown
+dev-ruby/stringex
+dev-ruby/prawn-table
+dev-ruby/prawn
+dev-ruby/ritex
+dev-ruby/redcarpet
+dev-ruby/pdf-core
+dev-ruby/rouge
+dev-ruby/itextomml
+dev-ruby/ttfunk
+
 # libreoffice
 =dev-java/icedtea-7.2.5.5
 
