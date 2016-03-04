@@ -7,6 +7,7 @@ media-gfx/gtkam
 www-plugins/adobe-flash
 sci-electronics/eagle
 sci-electronics/fritzing
+sys-process/mussh
 
 # icons & themes
 x11-themes/human-icon-theme
