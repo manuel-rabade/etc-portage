@@ -81,3 +81,6 @@ dev-libs/quazip                         qt4 -qt5
 
 # phantomjs
 >=dev-qt/qtcore-5.4.1                   icu
+
+# skype
+dev-qt/qtwebkit                         -exceptions
